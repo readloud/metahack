@@ -30,5 +30,5 @@
 # CONTACT
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/readloud7)
 [![Blogspot](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://readloud7.blogspot.com)
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/readloud)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC-1ulv7-EEUXWzu0S9GMCOg)
+[![Github](https://img.shields.io/badge/Github-readloud-green?style=for-the-badge&logo=github)](https://github.com/readloud)
+[![YouTube](https://img.shields.io/badge/youtube-readloud-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC-1ulv7-EEUXWzu0S9GMCOg)
