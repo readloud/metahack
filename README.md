@@ -1,6 +1,5 @@
-## METASPLOIT FRAMEWORK 
+## TERMUX METASPLOIT FRAMEWORK 
 
-# INSTALLING METASPLOIT FRAMEWORK 
 * From this option you can install metasploit-framework in termux application without any issue in just one click and the installation can take time upto 30 minutes.
 * No errors
 * Easy Installation
